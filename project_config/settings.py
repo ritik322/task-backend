@@ -158,5 +158,5 @@ CORS_ALLOW_ALL_ORIGINS = True
 # For production, you'd use:
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", 
-    "https://rad-cobbler-eaff59.netlify.app/",
+    # "https://rad-cobbler-eaff59.netlify.app/",
 ]
